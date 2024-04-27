@@ -1,0 +1,35 @@
+.navbar{
+    margin: 0.6em;
+    background-color: rgb(201, 201, 201);
+}
+h1{
+    color: rgb(188, 187, 187);
+}
+a{
+    text-decoration: none;
+    color: black !important;
+}
+a:focus{
+    background-color: rgb(174, 174, 174);
+    color: rgb(255, 255, 255) !important;
+    border-radius: 3em;
+}
+.logo{
+    max-width: 1.8em;
+    margin-right: 1em;
+    margin-left: 0.7em;
+}
+footer{
+    background-color: rgb(201, 201, 201);
+    margin-top: 5em;
+}
+input, textarea {
+    background-color: rgb(231, 231, 231) !important;
+    border: 0px;
+}
+button {
+    background-color: rgb(201, 201, 201) !important;
+}
+.color-titulo{
+    color: rgb(179, 78, 157);
+}

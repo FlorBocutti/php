@@ -1,0 +1,44 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "titulo": "MacBook Air de 13” Chip M2",
+            "precio": 999,
+            "imagen": "img/MacBookAir13”.jpg",
+            "imagen_descripcion": "MacBook Air de 13” Chip M2",
+            "detalles": "Laptop ultra delgada y liviana, con un rendimiento potente gracias a su chip M2 de Apple. Ofrece hasta 18 horas de duración de la batería, una pantalla vibrante Liquid Retina de 13,6 pulgadas, y una excelente calidad de imagen y sonido con su cámara FaceTime HD, tres micrófonos y cuatro altavoces con audio espacial."
+        },
+        {
+            "id": 2,
+            "titulo": "MacBook Air de 13” y 15” Chip M3",
+            "precio": 999,
+            "imagen": "img/MacBookAir13”15”.jpg",
+            "imagen_descripcion": "MacBook Air de 13” y 15” Chip M3",
+            "detalles": "Es ultradelgada y ligera, perfecta para llevar a cualquier lugar. Equipado con una potente CPU de 8 núcleos y GPU de 10 núcleos, garantiza un rendimiento fluido. Ofrece hasta 18 horas de autonomía, una pantalla Liquid Retina de 15,3 pulgadas con colores vibrantes y una cámara FaceTime HD, tres micrófonos y seis altavoces para una experiencia de imagen y sonido excepcional."
+        },
+        {
+            "id": 3,
+            "titulo": "MacBook Pro de 14” ",
+            "precio": 1599,
+            "imagen": "img/MacBookPro14”.jpg",
+            "imagen_descripcion": "MacBook Pro de 14”",
+            "detalles": "isfruta de hasta 22 horas de autonomía para trabajar sin interrupciones. La pantalla Liquid Retina XDR ofrece un contraste increíble y colores hiperrealistas. Además, cuenta con una cámara FaceTime HD, tres micrófonos de calidad de estudio y seis altavoces con audio espacial para una experiencia multimedia asombrosa. Con ranura para tarjetas SDXC, toma para auriculares, puerto HDMI, puerto MagSafe 3 y hasta tres puertos Thunderbolt 4, tendrás todas las conexiones que necesitas."
+        },
+        {
+            "id": 4,
+            "titulo": "MacBook Pro de 16” ",
+            "precio": 1599,
+            "imagen": "img/MacBookPro16”.jpg",
+            "imagen_descripcion": "MacBook Pro de 16”",
+            "detalles": "Disfruta de hasta 22 horas de autonomía para un uso continuo. La pantalla Liquid Retina XDR ofrece un rango dinámico extremo, un contraste impresionante y colores hiperrealistas. Además, cuenta con una cámara FaceTime HD, tres micrófonos de calidad de estudio y seis altavoces con audio espacial para una experiencia multimedia excepcional. Con una variedad de puertos, incluyendo una ranura para tarjetas SDXC, toma para auriculares, puerto HDMI, puerto MagSafe 3 y tres puertos Thunderbolt 4, tendrás todas las conexiones que necesitas para tu trabajo y entretenimiento."
+        }, 
+        {
+            "id": 5,
+            "titulo": "iMac",
+            "precio": 1299,
+            "imagen": "img/iMac.png",
+            "imagen_descripcion": "iMac",
+            "detalles": "Potenciado por el chip M3 de Apple para un rendimiento rápido en todas tus tareas. Disfruta de una impresionante pantalla Retina 4,5K de 24 pulgadas. Con un diseño todo en uno ultradelgado disponible en siete increíbles colores. Experimenta una calidad de imagen y sonido excepcional con la cámara FaceTime HD a 1080p, tres micrófonos y un sistema de seis altavoces con audio espacial. Además, incluye el ratón Magic Mouse y el teclado Magic Keyboard del mismo color para una experiencia de usuario completa."
+        }
+    ]
+}
